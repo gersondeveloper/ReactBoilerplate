@@ -1,2 +1,2 @@
-# IndecisionApp
-Indecision sample app - Udemy react course
+# BoilerplateApp
+Boilerplate React Apps
